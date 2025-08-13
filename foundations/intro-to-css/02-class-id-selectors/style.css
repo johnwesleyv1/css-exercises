@@ -1,0 +1,20 @@
+/* PRACTICE NUMBER 2 */
+
+.trial {
+    background-color: rgb(251, 115, 188);
+    font-family: Verdana, sans-serif;
+}
+
+.tres {
+    font-size: 24px;
+}
+
+#two {
+    font-size: 36px;
+    color: blue
+}
+
+#four {
+    background-color: lightgreen;
+    font-weight: bold;
+}
